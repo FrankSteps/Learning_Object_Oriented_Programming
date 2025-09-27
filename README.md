@@ -1,2 +1,2 @@
 # Learning_Object_Oriented_Programming
-This repository contains my college works about Object-Oriented programming with Java
+This repository contains my college work on Object-Oriented Programming with Java 
